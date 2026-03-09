@@ -1,5 +1,5 @@
 # Daily_problems
-Let's Begin 
-Day01 - Traversing Array
-Language: C
+Let's Begin <br>
+Day01 - Traversing Array<br>
+Language: C<br>
 Concept: Array Traversal
