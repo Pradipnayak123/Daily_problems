@@ -10,7 +10,7 @@ int main(){
     printf("Enter The Array Elements:\n");
     for (int i = 0; i < n; i++)
     {
-        scanf("%d", &arr[i]);   // ✅ fixed
+        scanf("%d", &arr[i]);   
     }
 
     int key;
