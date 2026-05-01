@@ -13,7 +13,8 @@ struct node* creation(){
     scanf("%d", &x);
 
     if(x == -1){
-        return NULL;   // very important
+        return NULL;   // very important 
+        //Base case
     }
 
     struct node* newnode = (struct node*)malloc(sizeof(struct node));
