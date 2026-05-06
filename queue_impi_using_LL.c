@@ -33,7 +33,7 @@ int main(){
     enqueue(3);
     enqueue(4);
     dequeue();
-     dequeue();
+    dequeue();
      for(int i = front;i<=rear;i++){
         printf("%d ",queue[i]);
      }
